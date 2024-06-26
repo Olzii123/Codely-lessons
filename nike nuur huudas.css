@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: aliceblue ;
+    margin: 0;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 99vw;
+    height: 100%;
+    line-height: 0;
+}
+H2{
+  font-size: 35px;
+    text-align: center;
+    margin: 0;
+}
+.footer{
+      background-color: aquamarine;
+      padding: 10px;
+}
+p{
+margin: 0;
+}
+
+
+div a{
+    text-decoration: none;
+}
+.fixed{
+    background-color: rgb(194, 194, 212);
+    padding: 10px;
+    text-align: center;
+    /* height: 10px;
+    display: flex; */
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw;
+   
+    /* flex-direction: row;
+    
+    justify-content: space-around; */
+    /* align-items: center */
+    
+}
+
+
